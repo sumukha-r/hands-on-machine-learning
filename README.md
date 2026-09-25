@@ -14,7 +14,7 @@ The repository contains:
 
 # Repository structure
 
-- [] Chapter2-End-to-End-Machine-Learning-Project.ipynb
+- [ ] Chapter2-End-to-End-Machine-Learning-Project.ipynb
 
 ## Tools
 
