@@ -17,7 +17,7 @@ The repository contains:
 - [x] Chapter2-End-to-End-Machine-Learning-Project.ipynb
 - [x] Chapter3-Classification.ipynb
 - [x] Chapter4-Training-Models.ipynb
-- [ ] Chapter5-Support-Vector-Machines.ipynb
+- [x] Chapter5-Support-Vector-Machines.ipynb
 
 ## Tools
 
