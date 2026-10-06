@@ -18,7 +18,7 @@ The repository contains:
 - [x] Chapter3-Classification.ipynb
 - [x] Chapter4-Training-Models.ipynb
 - [x] Chapter5-Support-Vector-Machines.ipynb
-- [ ] Chapter6-Decision-Trees.ipynb
+- [x] Chapter6-Decision-Trees.ipynb
 
 ## Tools
 
