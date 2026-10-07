@@ -20,6 +20,7 @@ The repository contains:
 - [x] Chapter5-Support-Vector-Machines.ipynb
 - [x] Chapter6-Decision-Trees.ipynb
 - [x] Chapter7-Ensemble-Learning-and-Random-Forests.ipynb
+- [ ] Chapter8-Dimensionality-Reduction.ipynb
 
 ## Tools
 
