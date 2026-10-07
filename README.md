@@ -19,7 +19,7 @@ The repository contains:
 - [x] Chapter4-Training-Models.ipynb
 - [x] Chapter5-Support-Vector-Machines.ipynb
 - [x] Chapter6-Decision-Trees.ipynb
-- [ ] Chapter7-Ensemble-Learning-and-Random-Forests.ipynb
+- [x] Chapter7-Ensemble-Learning-and-Random-Forests.ipynb
 
 ## Tools
 
