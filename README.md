@@ -21,6 +21,7 @@ The repository contains:
 - [x] Chapter6-Decision-Trees.ipynb
 - [x] Chapter7-Ensemble-Learning-and-Random-Forests.ipynb
 - [x] Chapter8-Dimensionality-Reduction.ipynb
+- [x] Chapter9-Unsupervised-Learning-Techniques.ipynb
 
 ## Tools
 
