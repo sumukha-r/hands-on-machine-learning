@@ -22,6 +22,7 @@ The repository contains:
 - [x] Chapter7-Ensemble-Learning-and-Random-Forests.ipynb
 - [x] Chapter8-Dimensionality-Reduction.ipynb
 - [x] Chapter9-Unsupervised-Learning-Techniques.ipynb
+- [x] Chapter10-Introduction-to-Artificial-Neural-Networks-with-Keras.ipynb
 
 ## Tools
 
