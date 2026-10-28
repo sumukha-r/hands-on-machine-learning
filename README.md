@@ -23,6 +23,7 @@ The repository contains:
 - [x] Chapter8-Dimensionality-Reduction.ipynb
 - [x] Chapter9-Unsupervised-Learning-Techniques.ipynb
 - [x] Chapter10-Introduction-to-Artificial-Neural-Networks-with-Keras.ipynb
+- [x] Chapter11-Training-Deep-Neural-Networks.ipynb
 
 ## Tools
 
