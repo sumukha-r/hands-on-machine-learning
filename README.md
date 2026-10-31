@@ -24,7 +24,7 @@ The repository contains:
 - [x] Chapter9-Unsupervised-Learning-Techniques.ipynb
 - [x] Chapter10-Introduction-to-Artificial-Neural-Networks-with-Keras.ipynb
 - [x] Chapter11-Training-Deep-Neural-Networks.ipynb
-- [ ] Chapter12-Custom-Models-and-Training-with-TensorFlow.ipynb
+- [x] Chapter12-Custom-Models-and-Training-with-TensorFlow.ipynb
 
 ## Tools
 
