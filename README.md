@@ -25,6 +25,7 @@ The repository contains:
 - [x] Chapter10-Introduction-to-Artificial-Neural-Networks-with-Keras.ipynb
 - [x] Chapter11-Training-Deep-Neural-Networks.ipynb
 - [x] Chapter12-Custom-Models-and-Training-with-TensorFlow.ipynb
+- [x] Chapter13-Loading-and-Preprocessing-Data-with-TensorFlow.ipynb
 
 ## Tools
 
