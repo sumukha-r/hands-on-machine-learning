@@ -27,6 +27,7 @@ The repository contains:
 - [x] Chapter12-Custom-Models-and-Training-with-TensorFlow.ipynb
 - [x] Chapter13-Loading-and-Preprocessing-Data-with-TensorFlow.ipynb
 - [x] Chapter14-Deep-Computer-Vision-Using-Convolutional-Neural-Networks.ipynb
+- [x] Chapter15-Processing-Sequences-Using-RNNs-and-CNNs.ipynb
 
 ## Tools
 
